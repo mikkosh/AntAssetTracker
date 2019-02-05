@@ -33,6 +33,7 @@ using Toybox.StringUtil;
 /**
  * AntAssetTracker module
  */
+(:AntAssetTracker)
 module AntAssetTracker {
 
 	const STATUS_SITTING = 0;
